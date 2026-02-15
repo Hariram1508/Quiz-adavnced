@@ -85,7 +85,7 @@ function startQuiz(){
     alert("No Questions Found");
     return;
   }
-
+//hello
   currentIndex=0;
   score=0;
 
